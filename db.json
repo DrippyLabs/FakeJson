@@ -2,9 +2,9 @@
     "tokens": [
         {
             "id": 0,
-            "description": "My NFT",
-            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
-            "name": "My NFT 0"
+            "description": "Test collection",
+            "image": "https://images.pexels.com/photos/8836258/pexels-photo-8836258.jpeg?cs=srgb&dl=pexels-ceejay-talam-8836258.jpg&fm=jpg",
+            "name": "LMC #0"
         },
         {
             "id": 1,
