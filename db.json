@@ -4,7 +4,12 @@
             "id": 0,
             "description": "Test collection",
             "image": "https://gateway.pinata.cloud/ipfs/QmcCoLa4eCA6eLMLkAnmx62bysG8wqmSpxaDihow6UrovL",
-            "name": "LMC #0"
+            "name": "LMC #0",
+            "attributes": [
+            {
+              "trait_type": "Face", 
+              "value": "Gerrit"
+            },
         },
         {
             "id": 1,
