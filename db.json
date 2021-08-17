@@ -3,20 +3,20 @@
         {
             "id": 0,
             "description": "Test collection",
-            "image": "https://images.pexels.com/photos/8836258/pexels-photo-8836258.jpeg?cs=srgb&dl=pexels-ceejay-talam-8836258.jpg&fm=jpg",
+            "image": "https://gateway.pinata.cloud/ipfs/QmcCoLa4eCA6eLMLkAnmx62bysG8wqmSpxaDihow6UrovL",
             "name": "LMC #0"
         },
         {
             "id": 1,
             "description": "My NFT",
-            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
-            "name": "My NFT 1"
+            "image": "https://gateway.pinata.cloud/ipfs/QmcCoLa4eCA6eLMLkAnmx62bysG8wqmSpxaDihow6UrovL",
+            "name": "LMC #1"
         },
         {
             "id": 2,
             "description": "My NFT",
-            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
-            "name": "My NFT 2"
+            "image": "https://gateway.pinata.cloud/ipfs/QmcCoLa4eCA6eLMLkAnmx62bysG8wqmSpxaDihow6UrovL",
+            "name": "LMC #2"
         }
     ]
 }
