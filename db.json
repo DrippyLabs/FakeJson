@@ -5,12 +5,18 @@
             "description": "Test collection",
             "image": "https://gateway.pinata.cloud/ipfs/QmcCoLa4eCA6eLMLkAnmx62bysG8wqmSpxaDihow6UrovL",
             "name": "LMC #0",
-            "attributes": [
             {
-              "trait_type": "Face", 
-              "value": "Gerrit"
-            }]
-        },
+            "attributes": [
+                {
+                  "trait_type": "Base", 
+                  "value": "Starfish"
+                }, 
+                {
+                  "trait_type": "Eyes", 
+                  "value": "Big"
+                }]
+                }
+            },
         {
             "id": 1,
             "description": "My NFT",
