@@ -1,8 +1,22 @@
 {
-  "tokens": [
-    {"id": 0,
-  "description": "Test the OS integration using this placeholder.",
-  "image": "https://images.pexels.com/photos/213780/pexels-photo-213780.jpeg?cs=srgb&dl=pexels-snapwire-213780.jpg&fm=jpg",
-  "name": "LMC #0"}
+    "tokens": [
+        {
+            "id": 0,
+            "description": "My NFT",
+            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My NFT",
+            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My NFT",
+            "image": "https://images.pexels.com/photos/65898/beech-fagus-sylvatica-fagus-deciduous-tree-65898.jpeg?cs=srgb&dl=pexels-pixabay-65898.jpg&fm=jpg",
+            "name": "My NFT 2"
+        }
     ]
 }
